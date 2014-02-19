@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://www.geekshut.com/sitemap_index.xml

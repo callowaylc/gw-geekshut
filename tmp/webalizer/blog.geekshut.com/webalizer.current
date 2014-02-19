@@ -1,0 +1,234 @@
+# Webalizer V2.01-10 Incremental Data - 11/14/2012 15:06:55
+2012 11 14 15 6 55
+63 60 20 1 1 1 192274 1 1 0
+18 1 9 1 14
+1 1 2114 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 0 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+61 59 190160 18 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 4 11792 0
+7 7 22582 0
+5 5 16130 0
+7 7 22582 0
+8 8 25808 0
+9 9 29034 0
+5 5 15956 0
+9 6 19356 1
+5 5 16130 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 2 6452 0
+1 1 3226 0
+0 0 0 0
+1 1 3226 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+60
+0
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/wp-login.php
+0 60 378702720 192274 0 0
+# End Of Table - urls
+# -sites- (monthly)
+arcadiadesign.hu
+0 6 6 19356 0 0
+-
+host124-183-static.39-79-b.business.telecomitalia.it
+0 3 3 9678 0 0
+-
+83.70.178.60
+0 1 1 3226 0 0
+-
+static-87-79-89-214.netcologne.de
+0 4 4 12904 0 0
+-
+static-xdsl.interac.it
+0 2 2 6452 0 0
+-
+151.8.12.213
+0 2 2 6452 0 0
+-
+vhlanefox-01.mh.uk.viatel.net
+0 4 4 12904 0 0
+-
+pd95c78bf.dip0.t-ipconnect.de
+0 3 3 9678 0 0
+-
+p578bf50a.dip0.t-ipconnect.de
+0 4 4 12730 0 0
+-
+pd95b2503.dip0.t-ipconnect.de
+0 2 2 6452 0 0
+-
+198.15.113.106
+0 1 0 0 0 0
+-
+250-181.static.businesstel.hu
+0 4 2 6452 1 1352878585
+-
+host226-39-static.13-188-b.business.telecomitalia.it
+0 3 3 9678 0 0
+-
+59.red-80-59-98.staticip.rima-tde.net
+0 1 1 2114 0 0
+-
+91-82-196-36.static.invitel.hu
+0 5 5 16130 0 0
+-
+p578b5bf2.dip0.t-ipconnect.de
+0 4 4 12904 0 0
+-
+63.red-80-35-16.staticip.rima-tde.net
+0 3 3 9678 0 0
+-
+static.kpn.net
+0 5 5 16130 0 0
+-
+pd907e005.dip0.t-ipconnect.de
+0 3 3 9678 0 0
+-
+81.73.broadband15.iol.cz
+0 3 3 9678 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+arcadiadesign.hu
+0 6 6 19356 0 0
+-
+host124-183-static.39-79-b.business.telecomitalia.it
+0 3 3 9678 0 0
+-
+83.70.178.60
+0 1 1 3226 0 0
+-
+static-87-79-89-214.netcologne.de
+0 4 4 12904 0 0
+-
+static-xdsl.interac.it
+0 2 2 6452 0 0
+-
+151.8.12.213
+0 2 2 6452 0 0
+-
+vhlanefox-01.mh.uk.viatel.net
+0 4 4 12904 0 0
+-
+pd95c78bf.dip0.t-ipconnect.de
+0 3 3 9678 0 0
+-
+p578bf50a.dip0.t-ipconnect.de
+0 4 4 12730 0 0
+-
+pd95b2503.dip0.t-ipconnect.de
+0 2 2 6452 0 0
+-
+250-181.static.businesstel.hu
+0 4 2 6452 1 1352878585
+-
+host226-39-static.13-188-b.business.telecomitalia.it
+0 3 3 9678 0 0
+-
+91-82-196-36.static.invitel.hu
+0 5 5 16130 0 0
+-
+p578b5bf2.dip0.t-ipconnect.de
+0 4 4 12904 0 0
+-
+63.red-80-35-16.staticip.rima-tde.net
+0 3 3 9678 0 0
+-
+static.kpn.net
+0 5 5 16130 0 0
+-
+pd907e005.dip0.t-ipconnect.de
+0 3 3 9678 0 0
+-
+81.73.broadband15.iol.cz
+0 3 3 9678 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 63
+# End Of Table - referrers
+# -agents- 
+Mozilla/3.0 (compatible; Indy Library)
+0 62
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,280 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201209 will be lost/reset.
+# Last config file used to build this data file was /home/geekshut/tmp/awstats/awstats.dotbu.geekshut.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2012                
+POS_TIME 2689                
+POS_VISITOR 6732                
+POS_DAY 6927                
+POS_DOMAIN 3216                
+POS_LOGIN 3468                
+POS_ROBOT 3623                
+POS_WORMS 3869                
+POS_EMAILSENDER 4000                
+POS_EMAILRECEIVER 4143                
+POS_SESSION 7028                
+POS_SIDER 7185                
+POS_FILETYPES 4278                
+POS_DOWNLOADS 4445                
+POS_OS 4493                
+POS_BROWSER 4548                
+POS_SCREENSIZE 4627                
+POS_UNKNOWNREFERER 4701                
+POS_UNKNOWNREFERERBROWSER 4788                
+POS_ORIGIN 4870                
+POS_SEREFERRALS 5003                
+POS_PAGEREFS 5147                
+POS_SEARCHWORDS 5295                
+POS_KEYWORDS 5447                
+POS_MISC 2353                
+POS_ERRORS 5506                
+POS_CLUSTER 3324                
+POS_SIDER_404 5590                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20121001010722 46 7184 9353293613980
+FirstTime 20120928233359
+LastTime 20120929231954
+LastUpdate 20121001042657 46 0 45 0 0
+TotalVisits 5                   
+TotalUnique 3                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 3                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 4 5 1398
+1 0 0 0 4 9 4288
+2 0 0 0 0 0 0
+3 0 0 0 5 6 4288
+4 0 0 0 6 7 4288
+5 0 0 0 4 5 0
+6 0 0 0 0 0 0
+7 1 1 4288 0 1 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 2 0
+13 0 0 0 1 3 0
+14 0 0 0 0 1 0
+15 0 0 0 4 4 0
+16 0 0 0 2 3 4288
+17 0 0 0 1 1 4288
+18 0 0 0 0 1 0
+19 2 2 5533 1 4 1398
+20 0 0 0 4 7 16726
+21 0 0 0 1 1 0
+22 0 0 0 19 21 16870
+23 26 54 170393 16 31 22556
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+nz 27 53 154592
+ua 1 1 4288
+de 1 3 21334
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+googlebot 26 50798 20120930235429 0
+bot[\s_+:,\.\;\/\\-] 4 17152 20120930203359 0
+spider 3 12438 20120930165721 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+php 6 14666 0 0
+css 14 41603 0 0
+html 1 4288 0 0
+jpg 14 68095 0 0
+cgi 4 13276 0 0
+Unknown 18 38286 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 2
+winxp 1
+win7 56
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 2
+opera9.80 1
+firefox15.0.1 56
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 22 22
+From1 0 0
+From2 0 0
+From3 0 0
+From4 7 35
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 79 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 32
+/index/style.css 1 http://dotbu.com/index/html
+/mybb/images/toplinks/calendar.gif 1 -
+/robots.txt 12 -
+/register.php 3 -
+/87LSpCxj/index.html 4 -
+/banner.png 6 http://dotbu.com/index.php
+/wp-content/uploads/2012/01/ffold.png 1 -
+/index.hphp 1 -
+/401.shtml 1 -
+/mobile.css 4 http://dotbu.com/index.php
+/browse.php 1 -
+/wp-content/uploads/2012/01/ffold-300x157.png 1 -
+/themes/default/logo.png 1 -
+/mybb/images/toplinks/help.gif 1 -
+/auctions.php 4 -
+/categorys.html 1 -
+/categorys/templates.html 1 -
+/categorys/websites.html 1 -
+/index.html 2 -
+/bXvg761m/index.html 4 -
+/index.png 6 http://dotbu.com/index.php
+/1ND3qAXe/index.html 4 -
+/404.shtml 1 -
+/front.css 4 http://dotbu.com/index.php
+/viewforum.php 2 -
+/faq.php 2 -
+/400.shtml 1 -
+/vYnnB3wr/index.html 4 -
+/images/top.png 1 -
+/viewnew.php 1 -
+/viewtopic.php 1 -
+/net/.info 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 3
+111.69.238.217 27 53 154592 20120929231954
+193.239.255.169 1 1 4288 20120929074550
+87.106.215.227 1 3 21334 20120928233359
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20120928 23 51 161377 2
+20120929 6 6 18837 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+5mn-15mn 1
+0s-30s 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/lukemansell 17 36877 0 2
+/cgi-sys/defaultwebpage.cgi 4 13276 3 0
+/index.php 3 12864 1 2
+/login.php 2 1709 0 0
+/ 1 4288 1 1
+/index/html 1 1409 0 0
+/postlogin.php 1 93 0 0
+END_SIDER

@@ -1,0 +1,132 @@
+# Webalizer V2.01-10 Incremental Data - 10/02/2012 23:07:05
+2012 10 2 23 7 5
+97 97 1 5 0 0 304679 0 0 1
+1 9 169 2 2
+0 0 0 0 0 0
+97 97 304679 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+8 8 22034 0
+66 66 226293 0
+0 0 0 0
+14 14 45853 0
+9 9 10499 0
+0
+0
+0
+97
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/geekshut/public_html/test.html
+0 2 0 114 0 0
+/home/geekshut/public_html/SITE/style.css
+0 30 25 125233 0 0
+/home/geekshut/public_html/SITE/profile.php
+0 55 244 167978 0 0
+/home/geekshut/public_html/SITE/postlogin.php
+0 1 7887336145190612077 855 0 0
+/home/geekshut/public_html/SITE/post.php
+0 9 0 10499 0 0
+# End Of Table - urls
+# -sites- (monthly)
+111.69.242.18
+0 97 97 304679 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+111.69.242.18
+0 97 97 304679 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+admin@geekshut.com
+0 97 97 304679 1 0
+# End Of Table - usernames

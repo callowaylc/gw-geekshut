@@ -1,0 +1,499 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201210 will be lost/reset.
+# Last config file used to build this data file was /home/geekshut/tmp/awstats/awstats.dotbu.geekshut.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2012                
+POS_TIME 2676                
+POS_VISITOR 10117               
+POS_DAY 13058               
+POS_DOMAIN 3381                
+POS_LOGIN 3817                
+POS_ROBOT 3972                
+POS_WORMS 4406                
+POS_EMAILSENDER 4537                
+POS_EMAILRECEIVER 4680                
+POS_SESSION 13681               
+POS_SIDER 13858               
+POS_FILETYPES 4815                
+POS_DOWNLOADS 4990                
+POS_OS 5038                
+POS_BROWSER 5193                
+POS_SCREENSIZE 5902                
+POS_UNKNOWNREFERER 5976                
+POS_UNKNOWNREFERERBROWSER 6252                
+POS_ORIGIN 6366                
+POS_SEREFERRALS 6503                
+POS_PAGEREFS 6669                
+POS_SEARCHWORDS 6962                
+POS_KEYWORDS 7126                
+POS_MISC 2340                
+POS_ERRORS 7197                
+POS_CLUSTER 3673                
+POS_SIDER_404 7291                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20121101042148 14 2033 8807155402404
+FirstTime 0
+LastTime 20121031211202
+LastUpdate 20121101071703 14 0 13 0 0
+TotalVisits 91                  
+TotalUnique 75                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 75                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 9 41568 15 22 25728
+1 8 8 31336 14 24 5686
+2 6 7 29980 9 22 21404
+3 4 4 17152 8 20 21404
+4 0 0 0 8 18 18462
+5 2 2 8576 6 17 14218
+6 3 3 12864 10 19 12864
+7 2 2 8576 29 41 11207
+8 3 3 12864 7 16 12864
+9 5 5 21440 11 20 47096
+10 6 6 17152 14 34 52175
+11 6 6 25728 6 14 12864
+12 3 3 12864 4 15 12864
+13 2 2 8576 4 10 17152
+14 3 3 12864 11 13 12864
+15 3 4 14143 6 13 8576
+16 2 2 8576 2 8 8576
+17 3 5 28704 8 21 30016
+18 3 3 12864 7 15 25728
+19 32 53 228234 14 33 31255
+20 45 117 504425 18 35 21440
+21 5 5 18463 20 29 24910
+22 33 63 249685 16 44 27044
+23 15 19 48072 20 46 12864
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+nz 95 226 937744
+ua 30 30 128640
+ru 17 18 77148
+us 15 16 59654
+cn 8 8 34304
+de 8 8 21440
+lv 6 6 25728
+fr 6 6 25728
+kz 4 4 17152
+ga 2 2 8576
+lt 2 2 8576
+ro 2 2 4288
+se 2 2 8576
+jp 1 1 4288
+ca 1 1 4288
+mn 1 1 4288
+ae 1 1 4288
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+bot[\s_+:,\.\;\/\\-] 60 245381 20121031222334 0
+googlebot 31 130413 20121031083915 0
+spider 16 68428 20121030141632 0
+ia_archiver 6 15023 20121001222657 0
+no_user_agent 3 12864 20121017163140 0
+robot 2 8576 20121013093003 0
+[\s_+:,\.\;\/\\-]bot 1 4288 20121028063757 0
+netcraft 1 4288 20121008130923 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+php 56 236699 0 0
+css 66 223965 0 0
+html 54 205482 0 0
+jpg 67 518718 0 0
+cgi 7 23233 0 0
+Unknown 84 166609 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 11
+blackberry 1
+winxp 52
+winlong 12
+linuxubuntu 1
+linuxfedora 2
+linux 2
+win7 249
+winme 3
+macosx 5
+win2003 2
+Unknown 5
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 43
+msie6.0 8
+firefox14.0 1
+firefox4.0.1 4
+firefox10.0 1
+chrome15.0.872.0 2
+firefox4.0 1
+firefox9.0 4
+lynx 2
+firefox3.5.3 2
+opera9.80 15
+firefox3.6.15 1
+chrome19.0.1084.56 5
+msie8.0 5
+firefox6.0.2 7
+firefox13.0.1 2
+chrome20.0.1132.47 1
+msie7.0 7
+firefox16.0 3
+opera9.64 1
+firefox3.6.27 3
+firefox3.6.9 1
+msie9.0 1
+chrome18.0.1025.1634 1
+Unknown 1
+blackberry 1
+chrome3.0.195.38 1
+firefox3.6.4 1
+firefox12.0 4
+chrome18.0.1025.165 1
+chrome19.0.1084.46 1
+mozilla 5
+firefox1.0 1
+netscape5.0 1
+firefox14.0.1 2
+safari4.0.4 1
+chrome22.0.1229.94 4
+firefox3.0.19 1
+firefox10.0.2 3
+firefox8.0.1 3
+firefox15.0.1 219
+chrome19.0.1084.52 1
+firefox3.0.15 2
+chrome18.0.1025.152 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0 20121010104247
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20121030092957
+wminer/Nutch-1.4 20121003020108
+Mozilla/4.0_(compatible;_Synapse) 20121024203657
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+wminer/Nutch-1.4 20121003020108
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 127 128
+From1 0 0
+From2 4 4
+From3 6 6
+From4 64 196
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 1 1
+yandex 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://www.orangeask.com 3 3
+http://caucana.com 1 1
+http://buypharmacyviagraonline.com 1 1
+http://evuln.com/tools/malware-scanner/dotbu.com/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+dotbu.com 4
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+dotbu.com 4
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+500 17 0
+404 406 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 68
+/sitemap.xml 1 -
+/wp-content/themes/MobileWorld/style.css 2 -
+/faqs.php 2 -
+/styles/prosilver/theme/normal.css 10 -
+/images/bottom.png 1 -
+/robots.txt 150 http://www.dotbu.com/robots.txt
+/87LSpCxj/index.html 5 -
+/_autoindex/icons/text.png 1 -
+/banner.png 4 http://dotbu.com/index.php
+/wp-content/uploads/2012/01/ccleaner.png 1 -
+/language/EN/images/buy_it_now.gif 1 -
+/mobile.css 13 http://dotbu.com/index.php
+/www.piriform.com/ccleaner/ 1 -
+/data/admin/ver.txt 1 -
+/wp-content/themes/MobileWorld/jdgallery/jd.gallery.css 2 -
+/images/rss.png 1 -
+/http:/dotbu.com/index.php/index.php/index.php/index.php/index.php 1 http://dotbu.com/index.php
+/wp-content/uploads/2012/01/ffold-300x157.png 1 -
+/item.php 1 -
+/image/submit.png 28 http://dotbu.com/lukemansell
+/mybb/images/newfolder.gif 1 -
+/wp-content/themes/MobileWorld/css/print.css 6 -
+/mybb/images/toplinks/search.gif 1 -
+/index.html 1 -
+/bXvg761m/index.html 5 -
+/forgotpasswd.php 2 -
+/index.png 9 http://dotbu.com/index.php
+/1ND3qAXe/index.html 5 -
+http://dotbu.com/http:/dotbu.com/index.php/index.php/index.php/index.php/index.php/index.php/index.php 1 http://dotbu.com/index.php
+/blog/wp-content/uploads/2011/11/Capture.png 1 -
+/mybb/images/logo.gif 1 -
+/blog//wp-login.php 1 -
+/faq.php 1 -
+/members.php 1 http://dotbu.com/members.php
+/site//wp-login.php 1 -
+/http:/dotbu.com/index.php/index.php/index.php/index.php/index.php/index.php/index.php 1 http://dotbu.com/index.php
+/viewtopic.php 14 http://dotbu.com/viewtopic.php
+/mybb/images/collapse.gif 1 -
+/http://dotbu.com//index.php 4 http://dotbu.com/index.php
+/net/.info 7 -
+/mybb/images/folder.gif 1 -
+/register.php 50 -
+/wp//wp-login.php 1 -
+/member/ajax_membergroup.php 1 -
+/mybb/images/newhotfolder.gif 1 -
+/administrator/index.php 1 DOTBU.COM
+/wp-content/uploads/2012/01/ffold.png 1 -
+//wp-login.php 1 -
+/mybb/images/hotfolder.gif 1 -
+/mybb/images/english/newthread.gif 1 -
+/post.php 5 http://dotbu.com/lukemansell
+/browse.php 1 -
+/mybb/images/dot_folder.gif 1 -
+/images/gradiant.png 1 -
+/http://dotbu.com//viewtopic.php 7 http://dotbu.com/viewtopic.php
+/styles/prosilver/theme/medium.css 5 -
+/language/EN/images/nopicture.gif 1 -
+/wordpress//wp-login.php 1 -
+/wp-content/uploads/2012/02/1.jpg 1 -
+/mybb/images/toplinks/memberlist.gif 1 -
+/mybb/images/lockfolder.gif 1 -
+/viewforum.php 1 -
+/front.css 15 http://dotbu.com/index.php
+/wp-login.php 4 -
+/vYnnB3wr/index.html 5 -
+/top.png 1 -
+http://dotbu.com/http://dotbu.com//index.php 1 http://dotbu.com/index.php
+/posting.php 4 http://dotbu.com/posting.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 75
+111.69.242.18 90 217 887667 20121004201523
+188.163.31.145 15 15 64320 20121017014101
+77.93.2.81 4 4 17152 20121012114453
+46.118.153.208 4 4 17152 20121030082831
+193.239.255.169 3 3 12864 20121024185117
+188.165.230.147 3 3 12864 20121031052449
+85.186.178.141 2 2 4288 20121021001132
+220.181.51.106 2 2 8576 20121018223814
+140.200.208.2 2 4 24416 20121024173451
+41.158.128.190 2 2 8576 20121016032744
+95.27.192.122 2 2 8576 20121015061543
+220.181.51.111 2 2 8576 20121029224932
+69.58.178.59 2 2 8576 20121012032437
+81.27.127.124 2 2 4288 20121008230153
+81.27.127.106 2 2 4288 20121030104417
+188.143.232.68 2 2 8576 20121026232127
+46.119.114.127 2 2 8576 20121011085048
+78.158.11.226 2 2 8576 20121030092957
+111.69.238.217 2 2 5533 20121001195912
+178.137.88.191 1 1 4288 20121028104129
+108.170.8.116 1 1 4288 20121028194646
+113.106.191.164 1 1 4288 20121010084110
+37.144.68.220 1 1 4288 20121011103646
+69.175.118.98 1 1 1315 20121022155436
+128.68.37.181 1 1 4288 20121021235355
+176.9.142.237 1 1 4288 20121015114555
+65.55.208.49 1 1 4288 20121023184407
+74.52.245.146 1 1 4288 20121008184550
+164.138.93.211 1 1 4288 20121023091319
+176.9.111.204 1 1 4288 20121018145925
+95.24.197.111 1 1 4288 20121003195859
+31.184.238.120 1 1 4288 20121019144235
+96.227.124.37 1 1 4288 20121019220327
+95.143.193.61 1 1 4288 20121015000214
+193.29.16.149 1 1 4288 20121024145753
+77.232.159.95 1 1 4288 20121022213852
+46.73.18.150 1 1 4288 20121015161000
+220.181.51.103 1 1 4288 20121009202107
+176.222.178.66 1 1 4288 20121011063901
+77.51.23.37 1 1 4288 20121010233711
+65.55.208.29 1 1 1311 20121031211202
+95.143.193.64 1 1 4288 20121012022414
+176.222.178.82 1 1 4288 20121004151458
+176.31.117.5 1 1 4288 20121007200106
+23.20.81.121 1 1 4288 20121008115442
+66.46.76.218 1 1 4288 20121003020108
+46.118.123.104 1 1 4288 20121025195528
+111.69.243.193 1 3 20128 20121016004535
+94.142.132.44 1 1 4288 20121025090809
+38.100.21.64 1 2 8540 20121009155102
+85.29.177.92 1 1 4288 20121015104613
+37.144.18.66 1 1 4288 20121019201423
+150.70.64.198 1 1 4288 20121004234356
+178.93.224.175 1 1 4288 20121026131235
+180.149.96.69 1 1 4288 20121028013728
+31.184.238.69 1 1 4288 20121002201132
+94.23.12.62 1 1 4288 20121003050815
+37.99.95.246 1 1 4288 20121029210603
+98.210.13.48 1 1 4288 20121028114951
+5.9.189.180 1 1 4288 20121024203657
+65.55.208.67 1 1 4288 20121022035342
+206.225.83.83 1 1 4288 20121008120624
+88.198.53.144 1 1 0 20121010104247
+220.181.51.105 1 1 4288 20121025222520
+74.208.106.70 1 1 1320 20121025011844
+94.23.222.135 1 1 4288 20121020215610
+178.137.82.161 1 1 4288 20121018223446
+31.184.238.177 1 1 4288 20121025204612
+178.137.92.240 1 1 4288 20121001073419
+188.92.75.252 1 1 4288 20121025095751
+95.26.167.243 1 1 4288 20121017120140
+128.72.154.38 1 2 8540 20121029024818
+157.56.92.175 1 1 4288 20121023173351
+220.181.51.108 1 1 4288 20121002214804
+92.99.133.207 1 1 4288 20121025021437
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20121001 3 3 9821 2
+20121002 90 215 871827 4
+20121003 3 3 12864 3
+20121004 6 8 41568 5
+20121007 2 2 8576 2
+20121008 5 5 17152 4
+20121009 3 4 17116 3
+20121010 4 4 12864 4
+20121011 3 3 12864 3
+20121012 7 7 30016 4
+20121013 1 1 4288 1
+20121015 5 5 21440 5
+20121016 8 10 50144 3
+20121017 11 11 47168 3
+20121018 4 4 17152 4
+20121019 3 3 12864 3
+20121020 2 2 8576 2
+20121021 3 3 8576 2
+20121022 3 3 9891 3
+20121023 3 3 12864 3
+20121024 5 7 37280 4
+20121025 7 7 27048 7
+20121026 2 2 8576 2
+20121028 4 4 17152 4
+20121029 6 7 29980 5
+20121030 6 6 21440 4
+20121031 2 2 5599 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+2mn-5mn 2
+30s-2mn 1
+0s-30s 84
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/lukemansell 84 166609 3 5
+/index.php 55 235840 42 44
+/ 51 201536 41 39
+/cgi-sys/defaultwebpage.cgi 7 23233 2 0
+/login.php 1 859 0 0
+/blog/ 1 1311 1 1
+/administrator/ 1 1320 1 1
+/ccleaner/ 1 1315 1 1
+END_SIDER
