@@ -13,5 +13,9 @@
  */
 define('WP_USE_THEMES', true);
 
+// return cluster ip; bit of a security issues
+// but this is freely avilable from dns anyways
+header('X-NODE', $_SERVER['SERVER_ADDR']);
+
 /** Loads the WordPress Environment and Template */
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );

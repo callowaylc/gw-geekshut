@@ -23,16 +23,16 @@ define('DISABLE_WP_CRON', true);
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'geeksh5_blog');
+define('DB_NAME', 'wordpress_geekshut');
 
 /** MySQL database username */
-define('DB_USER', 'geeksh5_bloguser');
+define('DB_USER', 'geekshut');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'T).Kb~4vRoMQ');
+define('DB_PASSWORD', 'fe5180zz');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'database');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
@@ -77,7 +77,8 @@ $table_prefix  = 'wp_';
  * language support.
  */
 define ('WPLANG', '');
-
+define('WP_HOME',   'http://' . $_SERVER['HTTP_HOST']);
+define('WP_SITEURL','http://' . $_SERVER['HTTP_HOST']);
 /**
  * For developers: WordPress debugging mode.
  *
